@@ -19,4 +19,15 @@ sections:
             url: ""
           - title: Hero Dropdown Element Title
             url: ""
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Our Vision
+          description: Create a Singapore that is resilient and well-prepared to face any
+            infectious disease challenge.
+        - title: Our Mission
+          description: safeguard the health and well-being of the people of Singapore
 ---
