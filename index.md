@@ -30,4 +30,28 @@ sections:
             infectious disease challenge.
         - title: Our Mission
           description: safeguard the health and well-being of the people of Singapore
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Infectious  Disease Guidelines
+          description: Prevention, management, and control of various infectious diseases
+          linktext: Learn more
+          url: ""
+        - title: Emergency Response Plans
+          description: Strategies for containing and mitigating infectious disease
+            outbreaks.
+          linktext: Learn more
+          url: ""
+        - title: Educational Materials
+          description: Designed to enhance public awareness about infectious diseases.
+          linktext: Learn more
+          url: ""
+        - title: Research and reports
+          description: Epidemiological reports, and data analyses related to infectious
+            diseases.
+          linktext: Learn more
+          url: ""
 ---
