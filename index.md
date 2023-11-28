@@ -54,4 +54,29 @@ sections:
             diseases.
           linktext: Learn more
           url: ""
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 28 November 2023
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+        - title: New Announcement
+          date: 28 November 2023
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+        - title: New Announcement
+          date: 28 November 2023
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+        - title: New Announcement
+          date: 28 November 2023
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
